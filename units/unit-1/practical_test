@@ -1,0 +1,37 @@
+#That is the code for the 1st practical task.
+#Python script called student_info.py that collects personal information from the user and displays it in a formatted profile card. The program must demonstrate correct use of all four data types, string manipulation, arithmetic, and the f-string output format.
+
+#Requirements
+#Use input() to collect: first name, surname, age (as an integer), and a favourite number (as a float)
+#Display a formatted greeting using an f-string: ‘Welcome, [Full Name]!’
+#Display the name in UPPERCASE using .upper() and in Title Case using .title()
+#Calculate and display the age in months (age × 12)
+#Round the favourite number to 2 decimal places using round()
+#Print the data type of each collected value using type()
+
+#Outcome of Task
+#At the end of this task, you should be competent in creating and running a basic Python script that accepts user input, stores information in variables, performs simple calculations, and displays formatted output.
+#You have now taken your first step into programming and developed the foundational skills that will be expanded throughout the remainder of this course.
+
+first_name = input ("Please enter your first name: ")
+surname = input ("Please enter your surname: ")
+
+full_name = f'{first_name} {surname}'
+
+age = int(input("Please enter your age: "))
+favourite_number = float(input("Please enter your favourite number: "))
+
+age_in_months = age * 12
+rounded_number = round(favourite_number, 2)
+
+print (f"Welcome, {full_name.title()}!")
+print(f"Uppercase Name: {full_name.upper()}")
+print(f"Title Case Name: {full_name.title()}")
+print (f"You are {age} years old, which is {age_in_months} months.")
+print (f"Your favourite number is {rounded_number}.")
+
+print (type (first_name))
+print (type (surname))
+print (type (age))
+print (type (favourite_number))
+
