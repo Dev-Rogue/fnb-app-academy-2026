@@ -16,3 +16,10 @@ Below is the layout of how the programme is structured from start to finish. Thi
 **Unit 5: Selection of Tasks**
 
 **Unit 6: Repeating Tasks**
+
+## Repository Guide
+
+This is how the repository is structured. In this section I'll just give you a little rundown of the repository is structured so you may be able to locate whatever you may want to access. Most folders in this repositpry look identical so this may come in really handy.
+
+### 1. fnb-app-academy landing page
+
