@@ -86,6 +86,7 @@ This basically basically just carries the notes that I may have come up with as 
 So the **NOTES** file holds most of the theory but there are files that are purely dedicated to holding **CODE**. Just stick around and everything will become clearer.
 
 **PRACTICAL TEST FILE**
+
 Every unit has a practical test where the skills you've learnt in the unit are tested. The **fnb-app-academy** is structured in a way that allows you to know the theory behind fundamentals but also the practical skills behind every concept. 
 **Practical Tests** basically just assess if you're able to implement whatever theoretical concept you may have covered in a particular unit.
 
