@@ -24,5 +24,8 @@ This is how the repository is structured. In this section I'll just give you a l
 ### 1. fnb-app-academy landing page
 
 <p align="center">
-  <img src="assets/images/fnb-app-academy-landing-page.png" alt="FNB App Academy Landing Page" width="100%">
+  <img src="assets/images/fnb-app-academy-repo-landing-page.png"
+       alt="FNB App Academy Repository Landing Page"
+       width="100%">
 </p>
+
