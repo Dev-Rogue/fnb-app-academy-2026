@@ -46,7 +46,7 @@ Upon opening the **fnb-app-academy-2026** repository you'll land on this page. T
 
 Let's go through these folders so you know what to expect and where to find anything in this repo.
 
-### UNITS
+### 2. UNITS
 
 <p align="center">
   <img src="assets/images/units.png"
