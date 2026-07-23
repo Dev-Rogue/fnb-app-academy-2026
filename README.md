@@ -98,3 +98,55 @@ What you'll find in this file is **CODE** that satisfies that question and obvio
 **REFLECTION FILE**
 
 This is basically a _**feedback form**_. This is basically where I give you my thoughts on the unit. 
+
+### 3. ASSETS
+
+<p align="center">
+  <img src="assets/images/assets.png"
+       alt="Assets folder"
+       width="100%">
+</p>
+
+Welcome to the assets folder. This folder just contains all supporting media and static resources used throughout the repository, including images, icons, banners, screenshots, logos, diagrams, and other visual or reusable files. 
+
+At the moment it just holds images because this is all we've added to it so far
+
+### 4. RESOURCES
+
+<p align="center">
+  <img src="assets/images/resources.png"
+       alt="Resources folder"
+       width="100%">
+</p>
+
+The resources folder basically holds referral material or study material that I may have used throughout the programme. 
+I'll try my best to format it in a way that allows one to easily navigate through it and not have any problems in getting help from it as it is there to assist where needed
+
+### 5. PROJECTS
+
+<p align="center">
+  <img src="assets/images/projects.png"
+       alt="Projects Folder"
+       width="100%">
+</p>
+
+Here you'll find a collective library of all completed projects from the fnb-app-academy. Here you can go through all the prijects I've completed through out the programme, this is their home. You can just scroll through if you're in need of any inspiration or just want to view some of my work.
+
+# 6. LICENSE
+
+<p align="center">
+  <img src="assets/images/mit-license.png"
+       alt="MIT License"
+       width="100%">
+</p>
+
+### MIT LICENSE
+This repository is licensed under the **MIT License**, a permissive open-source license that allows anyone to use, copy, modify, merge, publish, distribute, sublicense, and even use the code commercially, provided that the original copyright notice and license are included in any copies or substantial portions of the software.
+
+By including an MIT License, this repository encourages learning, collaboration, and responsible reuse while ensuring proper attribution to me (the original author).
+
+# 7. .GITIGNORE
+
+The **.gitignore** file is used to tell Git which files and folders should not be tracked or uploaded to the repository. This helps maintain a clean and professional project by excluding temporary files, development environment settings, generated files, and other content that is unnecessary for version control.
+
+Keeping a well-configured **.gitignore** is a software development best practice because it improves collaboration, reduces repository clutter, and prevents accidental commits of files that do not belong in the project's history.
